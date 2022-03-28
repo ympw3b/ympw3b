@@ -8,7 +8,7 @@
 
 <p align="center">
   <a align="center" href="https://discords.com/bio/p/developping" target="_blank">
-    <img align="center" src="https://discord.c99.nl/widget/theme-4/507329636305207308.png"/>
+    <img align="center" src="https://discord.c99.nl/widget/theme-4/830139525451612180.png"/>
   </a>
 </p>
 
